@@ -1,0 +1,7 @@
+{
+  "name": "Raviranjan's Companion",
+  "description": "Personalized student companion app for Raviranjan Kumar (26 TI G2).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
